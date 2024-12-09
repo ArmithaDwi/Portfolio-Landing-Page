@@ -1,0 +1,167 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+body {
+    font-family: Poppins;
+}
+
+#hai {
+    background-color: white;
+
+}
+
+.bungkus {
+    margin-left: 4em;
+    margin-right: -20em;
+    margin-top: -1em;
+}
+
+#navbar-list {
+    margin-right: 1em;
+    gap: 0.5em;
+}
+
+.logo {
+    margin-left: -0.8em;
+    margin-bottom: 1em;
+}
+
+.orang {
+    margin-left: 37em;
+    margin-top: -4em;
+}
+
+.btn-orange {
+    background-color: orange;
+    border-color: orange;
+    height: auto;
+    color: white;
+    font-size: 15px;
+}
+
+.span {
+    color: orange;
+}
+
+.color {
+    background-color: blanchedalmond;
+}
+
+#color2 {
+    background-color: blanchedalmond;
+    margin-top: -11em;
+}
+
+.services {
+    padding: 2em;
+    margin-left: 7em;
+    margin-right: 7em;
+    text-align: center;
+}
+
+.flex {
+    display: flex;
+    justify-content: center;
+}
+
+#project {
+    text-align: center;
+    justify-content: center;
+    gap: 20px;
+}
+
+.social-icons a {
+    font-size: 1.5rem;
+    color: #333;
+    gap: 0.5em;
+}
+
+.ikon {
+    margin-left: 46.5em;
+}
+
+.color {
+    background-color: #fff7e6;
+}
+
+.services h1 {
+    font-size: 2.5rem;
+    font-weight: bold;
+    margin-bottom: 1rem;
+    color: #333;
+}
+
+.services p {
+    color: #555;
+    line-height: 1.6;
+}
+
+.card {
+    background-color: #fff;
+    border: none;
+    border-radius: 10px;
+    width: 17rem;
+}
+
+.card-body img {
+    width: 60px;
+    height: 60px;
+    object-fit: contain;
+    margin-top: 0.5em;
+}
+
+.card-title {
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin-bottom: 0.7rem;
+}
+
+.card-text {
+    font-size: 0.9rem;
+}
+
+#card-flex{
+    gap: 1em;
+}
+
+#card-fit{
+    width: 220px;
+    height: 220px;
+}
+
+.footer {
+    text-align: center;
+    background-color: #f9f9f9;
+    color: #333;
+}
+
+.footer-title {
+    margin-left: 0.5em;
+}
+
+.footer-nav a {
+    margin: 0 15px;
+    text-decoration: none;
+    color: #000000;
+    font-size: 14px;
+}
+
+.social-icons {
+    margin-top: 15px;
+    justify-content: center;
+    margin-right: 1em;
+    margin-bottom: 50px;
+}
+
+.social-icons a {
+    margin: 0 10px;
+    text-decoration: none;
+    font-size: 18px;
+    color: #030303;
+}
+
+.copyright {
+    font-size: 12px;
+    color: #ffffff;
+    background-color: #474747;
+    padding: 1em;
+}
